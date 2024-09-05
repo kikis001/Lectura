@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Lectura:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Lectura_jar</output-path>
+    <root id="archive" name="Lectura.jar">
+      <element id="module-output" name="Lectura" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Estructuras/out/artifacts/Estructuras_jar/Estructuras.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
